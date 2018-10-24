@@ -1,0 +1,16 @@
+.Chat {
+  overflow: hidden;
+  width: 870px;
+  background: #fff;
+}
+.messages-container {
+  width: 500px;
+  float: left;
+  padding-left: 20px;
+  border-left: 1px solid #ddd;
+}
+.users-container {
+  width: 300px;
+  float: left;
+  padding: 0 20px;
+}

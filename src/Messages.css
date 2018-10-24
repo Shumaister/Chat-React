@@ -1,0 +1,6 @@
+.Messages {
+  height: 300px;
+  margin: 0 auto;
+  overflow-y: auto;
+  text-align: left;
+}
